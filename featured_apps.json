@@ -12,7 +12,7 @@
         "name": "Sales invoice",
         "repo": "enf644/kishflow-sales-invoice",
         "icon": "fas fa-file-invoice-dollar",
-        "icon1": "fas fa-telegram-plane",
+        "icon1": "fab fa-telegram-plane",
         "icon2": null
       },
       {
