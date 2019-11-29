@@ -4,47 +4,65 @@
       {
         "name": "Asset purchase",
         "repo": "enf644/kishflow-asset-purchase",
-        "icon": "fas fa-tractor"
+        "icon": "fas fa-tractor",
+        "icon1": "fas fa-dollar-sign",
+        "icon2": null
       },
       {
         "name": "Sales invoice",
         "repo": "enf644/kishflow-sales-invoice",
-        "icon": "fas fa-file-invoice-dollar"
+        "icon": "fas fa-file-invoice-dollar",
+        "icon1": "fas fa-telegram-plane",
+        "icon2": null
       },
       {
         "name": "Sales Order",
         "repo": "enf644/kishflow-sales-order",
-        "icon": "fas fa-dolly-flatbed"
+        "icon": "fas fa-dolly-flatbed",
+        "icon1": null,
+        "icon2": null
       },
       {
         "name": "Press Release",
         "repo": "enf644/kishflow-press-release",
-        "icon": "fas fa-newspaper"
+        "icon": "fas fa-newspaper",
+        "icon1": null,
+        "icon2": null
       },
       {
         "name": "Marketing Compaign",
         "repo": "enf644/kishflow-marketing-compaign",
-        "icon": "fas fa-bullhorn"
+        "icon": "fas fa-bullhorn",
+        "icon1": null,
+        "icon2": null
       },
       {
         "name": "Sales Discount Approval",
         "repo": "enf644/kishflow-sales-discount-approval",
-        "icon": "fas fa-tags"
+        "icon": "fas fa-tags",
+        "icon1": "fas fa-percentage",
+        "icon2": "fas fa-check"
       },
       {
         "name": "Vihicle Request",
         "repo": "enf644/kishflow-vihicle-request",
-        "icon": "fas fa-car"
+        "icon": "fas fa-car",
+        "icon1": null,
+        "icon2": null
       },
       {
         "name": "Business Card Request",
         "repo": "enf644/business-card-request",
-        "icon": "fas fa-id-card"
+        "icon": "fas fa-id-card",
+        "icon1": null,
+        "icon2": null
       },
       {
         "name": "Expense Approval",
         "repo": "enf644/kishflow-expense-approval",
-        "icon": "fas fa-credit-card"
+        "icon": "fas fa-credit-card",
+        "icon1": null,
+        "icon2": null
       }
     ]
   }
