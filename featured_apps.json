@@ -1,0 +1,51 @@
+{
+  "data": {
+    "AxApps": [
+      {
+        "name": "Asset purchase",
+        "repo": "enf644/kishflow-asset-purchase",
+        "icon": "fas fa-tractor"
+      },
+      {
+        "name": "Sales invoice",
+        "repo": "enf644/kishflow-sales-invoice",
+        "icon": "fas fa-file-invoice-dollar"
+      },
+      {
+        "name": "Sales Order",
+        "repo": "enf644/kishflow-sales-order",
+        "icon": "fas fa-dolly-flatbed"
+      },
+      {
+        "name": "Press Release",
+        "repo": "enf644/kishflow-press-release",
+        "icon": "fas fa-newspaper"
+      },
+      {
+        "name": "Marketing Compaign",
+        "repo": "enf644/kishflow-marketing-compaign",
+        "icon": "fas fa-bullhorn"
+      },
+      {
+        "name": "Sales Discount Approval",
+        "repo": "enf644/kishflow-sales-discount-approval",
+        "icon": "fas fa-tags"
+      },
+      {
+        "name": "Vihicle Request",
+        "repo": "enf644/kishflow-vihicle-request",
+        "icon": "fas fa-car"
+      },
+      {
+        "name": "Business Card Request",
+        "repo": "enf644/business-card-request",
+        "icon": "fas fa-id-card"
+      },
+      {
+        "name": "Expense Approval",
+        "repo": "enf644/kishflow-expense-approval",
+        "icon": "fas fa-credit-card"
+      }
+    ]
+  }
+}
