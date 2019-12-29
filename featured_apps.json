@@ -22,13 +22,13 @@
       {
         "name": "Pitch CAPEX Request",
         "repo": "enf644/pitch-capex-request",
-        "icon": null,
+        "icon": "fas fa-chair",
         "featured": true
       },
       {
         "name": "Pitch Facility Access Request",
         "repo": "enf644/pitch-facility-access-request",
-        "icon": null,
+        "icon": "fas fa-unlock-alt",
         "featured": true
       }
     ]
