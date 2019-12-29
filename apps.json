@@ -1,35 +1,45 @@
 {
   "data": {
-    "AxApps": [
+    "AxAppsPublished": [
       {
         "name": "Pitch Time Off Request",
         "repo": "enf644/pitch-time-off-request",
         "icon": "fas fa-bed",
-        "featured": true
+        "tags": "[\"#Human Resources\"]",
+        "featured": true,
+        "shortText": "Make PTO and leave requests for approval and recording"
       },
       {
         "name": "Pitch Purchase Request",
         "repo": "enf644/pitch-purchase-request",
         "icon": "fas fa-file-invoice-dollar",
-        "featured": true
+        "tags": "[\"#Procurement\"]",
+        "featured": true,
+        "shortText": "Request an item to be purchased for your department"
       },
       {
         "name": "Pitch Hire Request",
         "repo": "enf644/pitch-hire-request",
         "icon": "fas fa-child",
-        "featured": true
+        "tags": "[\"#Human Resources\"]",
+        "featured": true,
+        "shortText": "Raise a request to hire new staff for your department."
       },
       {
         "name": "Pitch CAPEX Request",
         "repo": "enf644/pitch-capex-request",
         "icon": "fas fa-chair",
-        "featured": true
+        "tags": "[\"#Finance & Operations\"]",
+        "featured": true,
+        "shortText": "Request to get a capital expenditure approved."
       },
       {
         "name": "Pitch Facility Access Request",
         "repo": "enf644/pitch-facility-access-request",
         "icon": "fas fa-unlock-alt",
-        "featured": true
+        "tags": "[\"#Finance & Operations\"]",
+        "featured": true,
+        "shortText": "\nRequest access to use a facility."
       }
     ]
   }
