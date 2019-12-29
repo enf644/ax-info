@@ -1,0 +1,36 @@
+{
+  "data": {
+    "AxApps": [
+      {
+        "name": "Pitch Time Off Request",
+        "repo": "enf644/pitch-time-off-request",
+        "icon": "fas fa-bed",
+        "featured": true
+      },
+      {
+        "name": "Pitch Purchase Request",
+        "repo": "enf644/pitch-purchase-request",
+        "icon": "fas fa-file-invoice-dollar",
+        "featured": true
+      },
+      {
+        "name": "Pitch Hire Request",
+        "repo": "enf644/pitch-hire-request",
+        "icon": "fas fa-child",
+        "featured": true
+      },
+      {
+        "name": "Pitch CAPEX Request",
+        "repo": "enf644/pitch-capex-request",
+        "icon": null,
+        "featured": true
+      },
+      {
+        "name": "Pitch Facility Access Request",
+        "repo": "enf644/pitch-facility-access-request",
+        "icon": null,
+        "featured": true
+      }
+    ]
+  }
+}
