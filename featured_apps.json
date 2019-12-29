@@ -2,67 +2,34 @@
   "data": {
     "AxApps": [
       {
-        "name": "Asset purchase",
-        "repo": "enf644/kishflow-asset-purchase",
-        "icon": "fas fa-tractor",
-        "icon1": "fas fa-dollar-sign",
-        "icon2": null
+        "name": "Pitch Time Off Request",
+        "repo": "enf644/pitch-time-off-request",
+        "icon": "fas fa-bed",
+        "featured": true
       },
       {
-        "name": "Sales invoice",
-        "repo": "enf644/kishflow-sales-invoice",
+        "name": "Pitch Purchase Request",
+        "repo": "enf644/pitch-purchase-request",
         "icon": "fas fa-file-invoice-dollar",
-        "icon1": "fab fa-telegram-plane",
-        "icon2": null
+        "featured": true
       },
       {
-        "name": "Sales Order",
-        "repo": "enf644/kishflow-sales-order",
-        "icon": "fas fa-dolly-flatbed",
-        "icon1": null,
-        "icon2": null
+        "name": "Pitch Hire Request",
+        "repo": "enf644/pitch-hire-request",
+        "icon": "fas fa-child",
+        "featured": true
       },
       {
-        "name": "Press Release",
-        "repo": "enf644/kishflow-press-release",
-        "icon": "fas fa-newspaper",
-        "icon1": null,
-        "icon2": null
+        "name": "Pitch CAPEX Request",
+        "repo": "enf644/pitch-capex-request",
+        "icon": null,
+        "featured": true
       },
       {
-        "name": "Marketing Compaign",
-        "repo": "enf644/kishflow-marketing-compaign",
-        "icon": "fas fa-bullhorn",
-        "icon1": null,
-        "icon2": null
-      },
-      {
-        "name": "Sales Discount Approval",
-        "repo": "enf644/kishflow-sales-discount-approval",
-        "icon": "fas fa-tags",
-        "icon1": "fas fa-percentage",
-        "icon2": "fas fa-check"
-      },
-      {
-        "name": "Vihicle Request",
-        "repo": "enf644/kishflow-vihicle-request",
-        "icon": "fas fa-car",
-        "icon1": null,
-        "icon2": null
-      },
-      {
-        "name": "Business Card Request",
-        "repo": "enf644/business-card-request",
-        "icon": "fas fa-id-card",
-        "icon1": null,
-        "icon2": null
-      },
-      {
-        "name": "Expense Approval",
-        "repo": "enf644/kishflow-expense-approval",
-        "icon": "fas fa-credit-card",
-        "icon1": null,
-        "icon2": null
+        "name": "Pitch Facility Access Request",
+        "repo": "enf644/pitch-facility-access-request",
+        "icon": null,
+        "featured": true
       }
     ]
   }
