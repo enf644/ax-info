@@ -4,7 +4,7 @@
       {
         "axNum": null,
         "name": "Pitch Time Off Request",
-        "shortText": "Make PTO and leave requests for approval and recording",
+        "shortText": "Make PTO and leave requests for approval and recording\n[Pro features used]",
         "tags": "[\"#Human Resources\"]",
         "repo": "enf644/pitch-time-off-request",
         "icon": "fas fa-bed",
@@ -15,7 +15,7 @@
       {
         "axNum": null,
         "name": "Pitch Purchase Request",
-        "shortText": "Request an item to be purchased for your department",
+        "shortText": "Request an item to be purchased for your department\n[Pro features used]",
         "tags": "[\"#Procurement\"]",
         "repo": "enf644/pitch-purchase-request",
         "icon": "fas fa-file-invoice-dollar",
@@ -26,7 +26,7 @@
       {
         "axNum": null,
         "name": "Pitch Hire Request",
-        "shortText": "Raise a request to hire new staff for your department.",
+        "shortText": "Raise a request to hire new staff for your department.\n[Pro features used]",
         "tags": "[\"#Human Resources\"]",
         "repo": "enf644/pitch-hire-request",
         "icon": "fas fa-child",
@@ -37,7 +37,7 @@
       {
         "axNum": null,
         "name": "Pitch CAPEX Request",
-        "shortText": "Request to get a capital expenditure approved.",
+        "shortText": "Request to get a capital expenditure approved.\n[Pro features used]",
         "tags": "[\"#Finance & Operations\"]",
         "repo": "enf644/pitch-capex-request",
         "icon": "fas fa-chair",
@@ -48,7 +48,7 @@
       {
         "axNum": "M18",
         "name": "Pitch Facility Access Request",
-        "shortText": "\nRequest access to use a facility.",
+        "shortText": "\nRequest access to use a facility.\n[Pro features used]",
         "tags": "[\"#Finance & Operations\"]",
         "repo": "enf644/pitch-facility-access-request",
         "icon": "fas fa-unlock-alt",
