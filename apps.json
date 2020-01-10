@@ -54,7 +54,7 @@
         "icon": "fas fa-unlock-alt",
         "position": null,
         "featured": true,
-        "usesPro": null
+        "usesPro": true
       }
     ]
   }
