@@ -9,7 +9,8 @@
         "repo": "enf644/pitch-time-off-request",
         "icon": "fas fa-bed",
         "position": null,
-        "featured": true
+        "featured": true,
+        "usesPro": true
       },
       {
         "axNum": null,
@@ -19,7 +20,8 @@
         "repo": "enf644/pitch-purchase-request",
         "icon": "fas fa-file-invoice-dollar",
         "position": null,
-        "featured": true
+        "featured": true,
+        "usesPro": true
       },
       {
         "axNum": null,
@@ -29,7 +31,8 @@
         "repo": "enf644/pitch-hire-request",
         "icon": "fas fa-child",
         "position": null,
-        "featured": true
+        "featured": true,
+        "usesPro": true
       },
       {
         "axNum": null,
@@ -39,7 +42,8 @@
         "repo": "enf644/pitch-capex-request",
         "icon": "fas fa-chair",
         "position": null,
-        "featured": true
+        "featured": true,
+        "usesPro": true
       },
       {
         "axNum": "M18",
@@ -49,7 +53,8 @@
         "repo": "enf644/pitch-facility-access-request",
         "icon": "fas fa-unlock-alt",
         "position": null,
-        "featured": true
+        "featured": true,
+        "usesPro": null
       }
     ]
   }
